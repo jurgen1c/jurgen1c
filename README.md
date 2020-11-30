@@ -7,9 +7,9 @@
 - 💬 Ask me about philosophy and code
 - ⚡ Fun fact: surfing is my jam
 
-![Jurgen's github stats](https://github-readme-stats.vercel.app/api?username=jurgen1c&show_icons=true&theme=radical)
+![Jurgen's github stats](https://github-readme-stats.vercel.app/api?username=jurgen1c&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurgen1c&layout=compact&langs_count=10)](https://github.com/jurgen1c/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurgen1c&layout=compact&langs_count=10&theme=dark)](https://github.com/jurgen1c/github-readme-stats)
 
 
 <!--
