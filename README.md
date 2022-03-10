@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on E-commerce tools for shopify
-- 🌱 I’m currently learning React & .NET 5
+- 🌱 I’m currently learning Angular & .NET 5
 - 👯 I’m looking to collaborate on cool Open-Source projects
 - 📫 How to reach me: jurgen1c@gmail.com
 - 💬 Ask me about philosophy and code
