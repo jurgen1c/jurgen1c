@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Rust skills
-- 🌱 I’m currently learning Angular & .NET 5
+- 🔭 I’m currently working on Enterprise Integration Services
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on cool Open-Source projects
 - 📫 How to reach me: jurgen1c@gmail.com
 - 💬 Ask me about philosophy and code
