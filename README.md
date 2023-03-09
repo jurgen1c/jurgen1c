@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on E-commerce tools for shopify
+- 🔭 I’m currently working on my Rust skills
 - 🌱 I’m currently learning Angular & .NET 5
 - 👯 I’m looking to collaborate on cool Open-Source projects
 - 📫 How to reach me: jurgen1c@gmail.com
